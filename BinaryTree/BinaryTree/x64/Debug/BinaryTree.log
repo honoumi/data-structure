@@ -1,0 +1,14 @@
+﻿  binaryTree.c
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(115,25): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(128,25): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(140,25): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(149,71): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(161,76): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(182,49): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(202,48): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(226,41): warning C4133: “=”: 从“BTNode *”到“BinartTreeNode *”的类型不兼容
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(239,34): warning C4133: “函数”: 从“BinartTreeNode *”到“BTNode *”的类型不兼容
+  queue.c
+  正在生成代码...
+D:\code\data_structure\BinaryTree\BinaryTree\binaryTree.c(256): warning C4716: “BinaryTreeComplete”: 必须返回一个值
+  BinaryTree.vcxproj -> D:\code\data_structure\BinaryTree\x64\Debug\BinaryTree.exe
